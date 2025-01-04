@@ -9,6 +9,7 @@ Hi, i'm Glenda!👋🏻 I'm an aspiring data analyst pursuing a degree in Busine
 - amazon_customer_data
 
 **Tableau Projects**
+- Link to Tableau Public Profile
 
 
 
