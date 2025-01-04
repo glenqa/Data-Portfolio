@@ -4,12 +4,12 @@ Hi, i'm Glenda!👋🏻 I'm an aspiring data analyst pursuing a degree in Busine
 
 ## Contents
 **Python Projects**
-- uber_nyc_dataset
-- covid19_analysis
-- amazon_customer_data
+- [uber_nyc_analysis](./uber_nyc_proj/)
+- [covid19_analysis](./covid19_analysis/)
+- [amazon_customer_data](./amazon_customer_data/)
 
 **Tableau Projects**
-- Link to Tableau Public Profile
+- [Link to Tableau Public Profile](https://public.tableau.com/app/profile/glenda.tay/vizzes)
 
 
 
