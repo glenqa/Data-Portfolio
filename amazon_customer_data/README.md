@@ -1,7 +1,7 @@
 # Amazon Customer Data Analysis and Visualisation
 
 ### Description:
-This python-based project analyses Amazon customer review data to uncover behavioral trends and provide actionable insights into user purchasing patterns. The project highlights the use of data preprocessing, customer segmentation, and sentiment analysis to better understand customer preferences and product performance. It also explores differences between frequent and infrequent buyers to inform targeted marketing strategies.
+This python data analysis project aims to analyse Amazon customer review data to uncover behavioral trends and provide actionable insights into user purchasing patterns. The project highlights the use of data preprocessing, customer segmentation, and sentiment analysis to better understand customer preferences and product performance, as well as explores differences between frequent and infrequent buyers to inform targeted marketing strategies.
 
 ### Key Features:
 - **Data Cleaning:** Processed raw data to remove duplicates and handle invalid entries, ensuring accuracy and consistency.
