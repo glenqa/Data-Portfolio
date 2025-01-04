@@ -9,6 +9,6 @@ This python-based project analyses the global COVID-19 data to uncover trends an
 - **Geospatial Analysis:** Analysed country-wise metrics to identify the most affected regions and their pandemic response.
 - **Interactive Visualisation:** Leveraged libraries like Plotly to create engaging visualisations including treemaps, bar plots and line charts
 
-#### Technologies Used:
+### Technologies Used:
 - Python: Pandas, NumPy, Matplotlib, Seaborn, Plotly
 
