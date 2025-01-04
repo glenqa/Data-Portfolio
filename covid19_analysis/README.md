@@ -1,7 +1,7 @@
 # COVID-19 Data Analysis and Visualisation
 
 ### Description:
-This python-based project analyses the global COVID-19 data to uncover trends and insights related to the pandemic's impact across countries. This project showcases data preprocessing, trend analysis, and visualisation to provide a comprehensive view of the pandemic's progression and its effects. The analysis highlights key metrics like confirmed cases, deaths, recoveries and testing rates
+This python data analysis project analyses the global COVID-19 data to uncover trends and insights related to the pandemic's impact across different countries. It makes use of data preprocessing, trend analysis, and visualisation to provide a comprehensive view of the pandemic's progression and its effects. The analysis highlights key metrics like confirmed cases, deaths, recoveries as well as testing rates.
 
 ### Key Features:
 - **Data Cleaning:** Processed raw data to remove duplicates and ensure consistency for accurate analysis.
