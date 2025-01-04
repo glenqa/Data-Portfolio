@@ -6,4 +6,4 @@
 ### British Airways Reviews Visualisation
 
 
-[Link to Tableau Public](
+[Link to Tableau Public Profile](https://public.tableau.com/app/profile/glenda.tay/vizzes)
