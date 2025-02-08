@@ -12,6 +12,9 @@ Hi, i'm Glenda!👋🏻 I'm an aspiring data analyst pursuing a degree in Busine
 - [Project Description](./tableau%20projects/)
 - [Link to Tableau Public Profile](https://public.tableau.com/app/profile/glenda.tay/vizzes)
 
+**SQL Projects**
+- netflix data analysis
+
 
 
 
