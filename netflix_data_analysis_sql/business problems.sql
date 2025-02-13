@@ -1,6 +1,6 @@
-Q1:Determining the number of Movies vs TV Shows
+Q1: Determine the number of Movies vs TV Shows
 
-Q2: Determining the most common rating for movies and TV Shows
+Q2: Determine the most common rating for movies and TV Shows
 
 Q3: List all movies released in a specific year (eg 2020)
 
