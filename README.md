@@ -1,6 +1,6 @@
 # Data-Analyst-Portfolio 📊
 
-Hi, i'm Glenda!👋🏻 I'm an aspiring data analyst pursuing a degree in Business Analytics and Statistics at the National University of Singapore. This repository is a collection of projects that demonstrate my technical expertise and analytical skills in uncovering valuable insights from data. 
+Hi, i'm Glenda!👋🏻 I'm an aspiring data analyst pursuing a degree in Business Analytics and Statistics at the National University of Singapore. This repository is my collection of projects that demonstrate my technical expertise and analytical skills in uncovering valuable insights from data. 
 
 ## Contents
 **Python Projects**
