@@ -3,7 +3,7 @@
 ### Project Overview
 This project explores a Netflix movie and TV Show dataset using SQL-based data analysis. Using PostgreSQL, I performed data cleaning and querying to solve 15 business problems by extracting meaningful insights about content distribution, ratings, genres and trends over time. 
 
-### Objectives 🎯:
+### Objectives:
 - Analyse content distribution
 - Understand Viewing trends & ratings
 - Explore release trends
